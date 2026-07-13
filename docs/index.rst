@@ -2,8 +2,8 @@ LastPass Login Account | Fast, Easy & Secure Access
 ===================================================
 
 
-LastPass Login Account | Fast, Easy & Secure Access
-===================================================
+
+
 
 LastPass is a trusted password manager that helps users securely store passwords, payment details, addresses, and other sensitive information in one encrypted vault. Logging in to your LastPass account gives you access to all your saved credentials across multiple devices.
 
